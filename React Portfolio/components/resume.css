@@ -1,0 +1,19 @@
+.resume {
+    text-align: center;
+  }
+  
+  .resume-download {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
