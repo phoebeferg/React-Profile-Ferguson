@@ -6,7 +6,7 @@ import AboutMe from "../components/aboutMe";
 import Portfolio from "../components/portfolio";
 import Contact from "../components/contact";
 import Resume from "../components/resume";
-import "./app.css";
+import "./App.css";
 
 function App() {
   console.log("App is rendering")
