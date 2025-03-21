@@ -1,5 +1,17 @@
 # 20 React: React Portfolio
 
+## Description
+
+This is a React Portfolio representing an About me section, a portfolio section, a contact section and a Resume section.
+
+## Screenshot
+
+![alt text](image.png)
+
+## Link to Deployed Application
+
+https://reactprofileferguson.netlify.app/
+
 ## Your Task
 
 Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
